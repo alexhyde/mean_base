@@ -1,0 +1,17 @@
+https://stackskills.com/courses/angular-2-crash-course-online/lectures/1247889
+
+https://github.com/alexhyde/management
+
+https://stackoverflow.com/questions/28459975/mean-stack-angular-routing-vs-express-routing
+
+https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming
+
+https://github.com/alohacode/startingwithangular2
+
+https://github.com/AlohaCode/StartingWithAngular2/blob/master/gulpfile.js#L18
+
+https://github.com/AlohaCode/StartingWithAngular2-CompletedProject/blob/master/gulp.config.js
+
+http://seleniumhq.github.io/selenium/docs/api/javascript/module/selenium-webdriver/chrome_exports_Driver.html
+
+https://www.tutorialspoint.com/mongodb/mongodb_query_document.htm

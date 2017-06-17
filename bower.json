@@ -1,0 +1,20 @@
+{
+  "name": "management",
+  "description": "management system",
+  "main": "app.js",
+  "authors": [
+    "alex hyde"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/alexhyde/management",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
